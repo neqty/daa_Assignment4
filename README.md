@@ -48,4 +48,4 @@ Submit the ZIP in Moodle and include your own GitHub repository link on branch `
 
 ## AI use
 
-ChatGPT was used to assist with parts of the assignment.
+I used AI only for check tests.
