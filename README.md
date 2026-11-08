@@ -48,4 +48,4 @@ Submit the ZIP in Moodle and include your own GitHub repository link on branch `
 
 ## AI use
 
-I used ChatGPT to help draft and review the Java implementation, test cases, and report structure. I checked the algorithm examples and generated the experiment data by running the program. The measurements shown in this repository are from actual execution, not estimated values.
+ChatGPT was used to assist with parts of the assignment.
